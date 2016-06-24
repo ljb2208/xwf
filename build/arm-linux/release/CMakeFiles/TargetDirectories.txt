@@ -1,0 +1,2 @@
+/home/ljb2208/development/wifi/xwf/build/arm-linux/release/CMakeFiles/xtx.dir
+/home/ljb2208/development/wifi/xwf/build/arm-linux/release/CMakeFiles/tx.dir
